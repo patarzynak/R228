@@ -1,0 +1,223 @@
+Loading pretrained embeddings from ../embeddings/GoogleWord2Vec.clean.normed.pkl
+54722 embeddings loaded; each embedding is length 300
+words done
+Starting evaluation.
+Step:  0
+[20303 53950     8    79  9371 24440  8314    37 54580  4228 53783  5508
+ 34152 31089 11944 46091  9656    92 24043    59  5202   488  2434 29236
+  3514 55187  2238  4961 55337 53243 54635  1410    86 41284  3417 26538
+  9634 55020     3     1  6540  5624   316  1065     3 13650  5683  3396
+ 14861  7100 22670     2   541    59 52763 15251  8492  1986   425 44673
+ 10238 25670  2587    33     1 24873 16063   312     2  7446 73007   427
+ 18424 31159  9032  2587  4649 25908 19986 47989 13725   136 23210 23500
+  9123  7435 43773  2455  2602   194    58  8005  2583    20  1468 39712
+  1331   109    38     4    24  1193  5406 12597  1032 50509  5534 29352
+  2996    36  8120  4400 97998   376  1791   163 11781 24647    43 28862
+  1996   131 48950    50  5036  4876 52306 54720 13165   699  1405     0
+  1036 14890 15456  2019  1604  1509 15782  1809 53718   916 32675  1973
+   667  1170  5411 47343 10437    77  8105     4    39 49655 28460  1094
+ 23027  8135  4105  1537   262  4430 42488 34462  1191  7313 50770     3
+ 12284  8220  3339   364 34971  7801 12673    13    68 48668  5299 52835
+ 52094  6223 53969   166 12645 10312   427 19254   601 18500 10358  6839
+     6  6039  1274    45  3993   571   852   197]
+Correct word: forget ranked: 20303
+Correct word: office ranked: 53950
+Correct word: cheap ranked: 8
+Correct word: obtain ranked: 79
+Correct word: foot ranked: 9371
+Correct word: disc ranked: 24440
+Correct word: identify ranked: 8314
+Correct word: thanks ranked: 37
+Correct word: facts ranked: 54580
+Correct word: follow ranked: 4228
+Correct word: toast ranked: 53783
+Correct word: leader ranked: 5508
+Correct word: knowledge ranked: 34152
+Correct word: explain ranked: 31089
+Correct word: complain ranked: 11944
+Correct word: tickle ranked: 46091
+Correct word: choose ranked: 9656
+Correct word: trousers ranked: 92
+Correct word: recycle ranked: 24043
+Correct word: hat ranked: 59
+Correct word: achieve ranked: 5202
+Correct word: coffee ranked: 488
+Correct word: government ranked: 2434
+Correct word: food ranked: 29236
+Correct word: prefer ranked: 3514
+Correct word: blanket ranked: 55187
+Correct word: decide ranked: 2238
+Correct word: desk ranked: 4961
+Correct word: flea ranked: 55337
+Correct word: tallest ranked: 53243
+Correct word: realize ranked: 54635
+Correct word: meat ranked: 1410
+Correct word: bring ranked: 86
+Correct word: opera ranked: 41284
+Correct word: clown ranked: 3417
+Correct word: bird ranked: 26538
+Correct word: race ranked: 9634
+Correct word: contain ranked: 55020
+Correct word: fishing ranked: 3
+Correct word: enjoy ranked: 1
+Correct word: chew ranked: 6540
+Correct word: art ranked: 5624
+Correct word: regret ranked: 316
+Correct word: tea ranked: 1065
+Correct word: reduce ranked: 3
+Correct word: discover ranked: 13650
+Correct word: library ranked: 5683
+Correct word: expect ranked: 3396
+Correct word: year ranked: 14861
+Correct word: sport ranked: 7100
+Correct word: blue ranked: 22670
+Correct word: poke ranked: 2
+Correct word: strawberry ranked: 541
+Correct word: avoid ranked: 59
+Correct word: washed ranked: 52763
+Correct word: ice ranked: 15251
+Correct word: mud ranked: 8492
+Correct word: continue ranked: 1986
+Correct word: internet ranked: 425
+Correct word: reading ranked: 44673
+Correct word: method ranked: 10238
+Correct word: ability ranked: 25670
+Correct word: nature ranked: 2587
+Correct word: night ranked: 33
+Correct word: communicate ranked: 1
+Correct word: greedy ranked: 24873
+Correct word: paper ranked: 16063
+Correct word: snooker ranked: 312
+Correct word: baseball ranked: 2
+Correct word: sing ranked: 7446
+Correct word: safer ranked: 73007
+Correct word: improve ranked: 427
+Correct word: protect ranked: 18424
+Correct word: receive ranked: 31159
+Correct word: explore ranked: 9032
+Correct word: ensure ranked: 2587
+Correct word: smoke ranked: 4649
+Correct word: daisy ranked: 25908
+Correct word: castle ranked: 19986
+Correct word: road ranked: 47989
+Correct word: love ranked: 13725
+Correct word: family ranked: 136
+Correct word: supply ranked: 23210
+Correct word: straw ranked: 23500
+Correct word: confuse ranked: 9123
+Correct word: news ranked: 7435
+Correct word: message ranked: 43773
+Correct word: speak ranked: 2455
+Correct word: rely ranked: 2602
+Correct word: basketball ranked: 194
+Correct word: prepare ranked: 58
+Correct word: army ranked: 8005
+Correct word: fight ranked: 2583
+Correct word: camera ranked: 20
+Correct word: music ranked: 1468
+Correct word: recommend ranked: 39712
+Correct word: headache ranked: 1331
+Correct word: ceiling ranked: 109
+Correct word: flight ranked: 38
+Correct word: afford ranked: 4
+Correct word: chocolate ranked: 24
+Correct word: glass ranked: 1193
+Correct word: hear ranked: 5406
+Correct word: fur ranked: 12597
+Correct word: prevent ranked: 1032
+Correct word: balloons ranked: 50509
+Correct word: require ranked: 5534
+Correct word: worm ranked: 29352
+Correct word: soup ranked: 2996
+Correct word: remain ranked: 36
+Correct word: marriage ranked: 8120
+Correct word: fun ranked: 4400
+Correct word: problem ranked: 97998
+Correct word: grass ranked: 376
+Correct word: history ranked: 1791
+Correct word: lick ranked: 163
+Correct word: describe ranked: 11781
+Correct word: telephone ranked: 24647
+Correct word: lust ranked: 43
+Correct word: stroke ranked: 28862
+Correct word: exist ranked: 1996
+Correct word: seem ranked: 131
+Correct word: clothing ranked: 48950
+Correct word: occur ranked: 50
+Correct word: goal ranked: 5036
+Correct word: technology ranked: 4876
+Correct word: ideas ranked: 52306
+Correct word: write ranked: 54720
+Correct word: speaker ranked: 13165
+Correct word: elephant ranked: 699
+Correct word: green ranked: 1405
+Correct word: aunt ranked: 0
+Correct word: week ranked: 1036
+Correct word: map ranked: 14890
+Correct word: begin ranked: 15456
+Correct word: literature ranked: 2019
+Correct word: petrol ranked: 1604
+Correct word: mouth ranked: 1509
+Correct word: user ranked: 15782
+Correct word: opportunity ranked: 1809
+Correct word: grow ranked: 53718
+Correct word: butter ranked: 916
+Correct word: remember ranked: 32675
+Correct word: invest ranked: 1973
+Correct word: lose ranked: 667
+Correct word: maintain ranked: 1170
+Correct word: solve ranked: 5411
+Correct word: allow ranked: 47343
+Correct word: enter ranked: 10437
+Correct word: wine ranked: 77
+Correct word: lake ranked: 8105
+Correct word: homework ranked: 4
+Correct word: pizza ranked: 39
+Correct word: cancer ranked: 49655
+Correct word: bell ranked: 28460
+Correct word: menu ranked: 1094
+Correct word: pride ranked: 23027
+Correct word: milk ranked: 8135
+Correct word: video ranked: 4105
+Correct word: mortgage ranked: 1537
+Correct word: calendar ranked: 262
+Correct word: sea ranked: 4430
+Correct word: finger ranked: 42488
+Correct word: east ranked: 34462
+Correct word: knife ranked: 1191
+Correct word: swimming ranked: 7313
+Correct word: potato ranked: 50770
+Correct word: dog ranked: 3
+Correct word: taste ranked: 12284
+Correct word: salt ranked: 8220
+Correct word: audience ranked: 3339
+Correct word: inflation ranked: 364
+Correct word: mouse ranked: 34971
+Correct word: snow ranked: 7801
+Correct word: silver ranked: 12673
+Correct word: golf ranked: 13
+Correct word: resort ranked: 68
+Correct word: garage ranked: 48668
+Correct word: hair ranked: 5299
+Correct word: wing ranked: 52835
+Correct word: star ranked: 52094
+Correct word: dance ranked: 6223
+Correct word: island ranked: 53969
+Correct word: patient ranked: 166
+Correct word: ambition ranked: 12645
+Correct word: climate ranked: 10312
+Correct word: wood ranked: 427
+Correct word: stomach ranked: 19254
+Correct word: childhood ranked: 601
+Correct word: president ranked: 18500
+Correct word: lip ranked: 10358
+Correct word: juice ranked: 6839
+Correct word: river ranked: 6
+Correct word: wheel ranked: 6039
+Correct word: city ranked: 1274
+Correct word: towel ranked: 45
+Correct word: screen ranked: 3993
+Correct word: church ranked: 571
+Correct word: panic ranked: 852
+Correct word: lunch ranked: 197
+Final median:  5459.5
