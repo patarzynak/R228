@@ -1,0 +1,223 @@
+Loading pretrained embeddings from ../embeddings/GoogleWord2Vec.clean.normed.pkl
+54722 embeddings loaded; each embedding is length 300
+words done
+Starting evaluation.
+Step:  0
+[43093 55415 23437 52925 10605 18964   365 52514 58893 25139 59019 53565
+  2495 43564 49108 58729 50468 13133 16610 46218 35546 44587 44562 18489
+  1663 54902 19339  6848 59169 54299 58883  6671  8030 43183 26260 40502
+ 21043 58110 49269 45735 39839 22629 23151 35088 26781  5900 14074 53556
+ 99992 12488 35776 42110  3159 53021 59025 11863 37080 11858 45670 31816
+ 40738 25963 33734 10468 49422 22768  7514 37188 50604 24696 73322 27516
+ 27873  8399 23395 36405 32356 18010 17633 53836 26863 21861 51868  3779
+ 36747 52918 53043 50941  7703 50481 26306 21006 29454 34384 29716 32303
+ 49751   502 53267 53501 24330 40166 30920 25005 52606 55028 51879 20788
+ 30549  4964 29186 21309 50289 38654 27025 31860   650 46901 22261 52417
+ 45505 41209 55482  2310 35680 16786 54158 54164 42802 26309 49385 44173
+ 25576 45203 53419  1349 25439 39661  3073 38445 55316  3988 41732 48275
+ 15280  9742 26288 54851 29353 36964 43228 22321 45121 48583 23288 40882
+ 41686 39408 20492 15885 35007 34363  2355 24953 41625 18255 55634 40036
+ 15353 41605 39106 35009  8504 21311 39627 51126 46572 56063 34657 59712
+ 53934 11916 54455 16818  4859 17038 35028 46865  2413 53624 21304  9382
+ 48816 36751 52778 38768  8379 19338 33493 35351]
+Correct word: forget ranked: 43093
+Correct word: office ranked: 55415
+Correct word: cheap ranked: 23437
+Correct word: obtain ranked: 52925
+Correct word: foot ranked: 10605
+Correct word: disc ranked: 18964
+Correct word: identify ranked: 365
+Correct word: thanks ranked: 52514
+Correct word: facts ranked: 58893
+Correct word: follow ranked: 25139
+Correct word: toast ranked: 59019
+Correct word: leader ranked: 53565
+Correct word: knowledge ranked: 2495
+Correct word: explain ranked: 43564
+Correct word: complain ranked: 49108
+Correct word: tickle ranked: 58729
+Correct word: choose ranked: 50468
+Correct word: trousers ranked: 13133
+Correct word: recycle ranked: 16610
+Correct word: hat ranked: 46218
+Correct word: achieve ranked: 35546
+Correct word: coffee ranked: 44587
+Correct word: government ranked: 44562
+Correct word: food ranked: 18489
+Correct word: prefer ranked: 1663
+Correct word: blanket ranked: 54902
+Correct word: decide ranked: 19339
+Correct word: desk ranked: 6848
+Correct word: flea ranked: 59169
+Correct word: tallest ranked: 54299
+Correct word: realize ranked: 58883
+Correct word: meat ranked: 6671
+Correct word: bring ranked: 8030
+Correct word: opera ranked: 43183
+Correct word: clown ranked: 26260
+Correct word: bird ranked: 40502
+Correct word: race ranked: 21043
+Correct word: contain ranked: 58110
+Correct word: fishing ranked: 49269
+Correct word: enjoy ranked: 45735
+Correct word: chew ranked: 39839
+Correct word: art ranked: 22629
+Correct word: regret ranked: 23151
+Correct word: tea ranked: 35088
+Correct word: reduce ranked: 26781
+Correct word: discover ranked: 5900
+Correct word: library ranked: 14074
+Correct word: expect ranked: 53556
+Correct word: year ranked: 99992
+Correct word: sport ranked: 12488
+Correct word: blue ranked: 35776
+Correct word: poke ranked: 42110
+Correct word: strawberry ranked: 3159
+Correct word: avoid ranked: 53021
+Correct word: washed ranked: 59025
+Correct word: ice ranked: 11863
+Correct word: mud ranked: 37080
+Correct word: continue ranked: 11858
+Correct word: internet ranked: 45670
+Correct word: reading ranked: 31816
+Correct word: method ranked: 40738
+Correct word: ability ranked: 25963
+Correct word: nature ranked: 33734
+Correct word: night ranked: 10468
+Correct word: communicate ranked: 49422
+Correct word: greedy ranked: 22768
+Correct word: paper ranked: 7514
+Correct word: snooker ranked: 37188
+Correct word: baseball ranked: 50604
+Correct word: sing ranked: 24696
+Correct word: safer ranked: 73322
+Correct word: improve ranked: 27516
+Correct word: protect ranked: 27873
+Correct word: receive ranked: 8399
+Correct word: explore ranked: 23395
+Correct word: ensure ranked: 36405
+Correct word: smoke ranked: 32356
+Correct word: daisy ranked: 18010
+Correct word: castle ranked: 17633
+Correct word: road ranked: 53836
+Correct word: love ranked: 26863
+Correct word: family ranked: 21861
+Correct word: supply ranked: 51868
+Correct word: straw ranked: 3779
+Correct word: confuse ranked: 36747
+Correct word: news ranked: 52918
+Correct word: message ranked: 53043
+Correct word: speak ranked: 50941
+Correct word: rely ranked: 7703
+Correct word: basketball ranked: 50481
+Correct word: prepare ranked: 26306
+Correct word: army ranked: 21006
+Correct word: fight ranked: 29454
+Correct word: camera ranked: 34384
+Correct word: music ranked: 29716
+Correct word: recommend ranked: 32303
+Correct word: headache ranked: 49751
+Correct word: ceiling ranked: 502
+Correct word: flight ranked: 53267
+Correct word: afford ranked: 53501
+Correct word: chocolate ranked: 24330
+Correct word: glass ranked: 40166
+Correct word: hear ranked: 30920
+Correct word: fur ranked: 25005
+Correct word: prevent ranked: 52606
+Correct word: balloons ranked: 55028
+Correct word: require ranked: 51879
+Correct word: worm ranked: 20788
+Correct word: soup ranked: 30549
+Correct word: remain ranked: 4964
+Correct word: marriage ranked: 29186
+Correct word: fun ranked: 21309
+Correct word: problem ranked: 50289
+Correct word: grass ranked: 38654
+Correct word: history ranked: 27025
+Correct word: lick ranked: 31860
+Correct word: describe ranked: 650
+Correct word: telephone ranked: 46901
+Correct word: lust ranked: 22261
+Correct word: stroke ranked: 52417
+Correct word: exist ranked: 45505
+Correct word: seem ranked: 41209
+Correct word: clothing ranked: 55482
+Correct word: occur ranked: 2310
+Correct word: goal ranked: 35680
+Correct word: technology ranked: 16786
+Correct word: ideas ranked: 54158
+Correct word: write ranked: 54164
+Correct word: speaker ranked: 42802
+Correct word: elephant ranked: 26309
+Correct word: green ranked: 49385
+Correct word: aunt ranked: 44173
+Correct word: week ranked: 25576
+Correct word: map ranked: 45203
+Correct word: begin ranked: 53419
+Correct word: literature ranked: 1349
+Correct word: petrol ranked: 25439
+Correct word: mouth ranked: 39661
+Correct word: user ranked: 3073
+Correct word: opportunity ranked: 38445
+Correct word: grow ranked: 55316
+Correct word: butter ranked: 3988
+Correct word: remember ranked: 41732
+Correct word: invest ranked: 48275
+Correct word: lose ranked: 15280
+Correct word: maintain ranked: 9742
+Correct word: solve ranked: 26288
+Correct word: allow ranked: 54851
+Correct word: enter ranked: 29353
+Correct word: wine ranked: 36964
+Correct word: lake ranked: 43228
+Correct word: homework ranked: 22321
+Correct word: pizza ranked: 45121
+Correct word: cancer ranked: 48583
+Correct word: bell ranked: 23288
+Correct word: menu ranked: 40882
+Correct word: pride ranked: 41686
+Correct word: milk ranked: 39408
+Correct word: video ranked: 20492
+Correct word: mortgage ranked: 15885
+Correct word: calendar ranked: 35007
+Correct word: sea ranked: 34363
+Correct word: finger ranked: 2355
+Correct word: east ranked: 24953
+Correct word: knife ranked: 41625
+Correct word: swimming ranked: 18255
+Correct word: potato ranked: 55634
+Correct word: dog ranked: 40036
+Correct word: taste ranked: 15353
+Correct word: salt ranked: 41605
+Correct word: audience ranked: 39106
+Correct word: inflation ranked: 35009
+Correct word: mouse ranked: 8504
+Correct word: snow ranked: 21311
+Correct word: silver ranked: 39627
+Correct word: golf ranked: 51126
+Correct word: resort ranked: 46572
+Correct word: garage ranked: 56063
+Correct word: hair ranked: 34657
+Correct word: wing ranked: 59712
+Correct word: star ranked: 53934
+Correct word: dance ranked: 11916
+Correct word: island ranked: 54455
+Correct word: patient ranked: 16818
+Correct word: ambition ranked: 4859
+Correct word: climate ranked: 17038
+Correct word: wood ranked: 35028
+Correct word: stomach ranked: 46865
+Correct word: childhood ranked: 2413
+Correct word: president ranked: 53624
+Correct word: lip ranked: 21304
+Correct word: juice ranked: 9382
+Correct word: river ranked: 48816
+Correct word: wheel ranked: 36751
+Correct word: city ranked: 52778
+Correct word: towel ranked: 38768
+Correct word: screen ranked: 8379
+Correct word: church ranked: 19338
+Correct word: panic ranked: 33493
+Correct word: lunch ranked: 35351
+Final median:  35219.5
